@@ -13,7 +13,7 @@ public class HelloWorld {
     /**
      * main method.
      **/
-    public static void main(String[] args) {
+    public static void main(final String[] args) {
         HelloWorld hw = new HelloWorld();
         hw.myMethod();
         System.out.println("Hello World!! Foo");
