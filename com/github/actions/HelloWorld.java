@@ -10,6 +10,9 @@ public class HelloWorld {
         System.out.println("Default constructor");
     }
     
+    /**
+     * main method.
+     **/
     public static void main(String[] args) {
         HelloWorld hw = new HelloWorld();
         hw.myMethod();
