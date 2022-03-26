@@ -12,6 +12,7 @@ public class HelloWorld {
     
     /**
      * main method.
+     * @param args
      **/
     public static void main(final String[] args) {
         HelloWorld hw = new HelloWorld();
